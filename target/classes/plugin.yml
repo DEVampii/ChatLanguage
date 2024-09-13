@@ -1,0 +1,8 @@
+name: TranslatorPlugin
+version: 1.0
+main: com.mod.chatlanguage.Chatlanguage
+api-version: 1.13
+commands:
+  language:
+    description: Cambia tu idioma.
+    usage: /language <idioma>
