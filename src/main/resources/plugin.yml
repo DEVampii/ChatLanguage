@@ -1,7 +1,0 @@
-main: cl.vs.ChatLanguage
-name: ChatLanguage
-version: 1.0-SNAPSHOT
-commands:
-  chatlanguage:
-    description: Main command for the plugin
-    aliases: lang
